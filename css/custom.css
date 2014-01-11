@@ -51,6 +51,10 @@ html, body {
 	background-size: 100% auto;
 }
 
+.container img {
+  width: 100%;
+}
+
 /* -- <A> -- */
 
 a.navbar-brand {
