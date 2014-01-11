@@ -12,6 +12,7 @@
 }
 
 h1 {
+  color: black;
   display: inline;
   margin-right: 20px;
   font-size: 24px;
@@ -40,6 +41,7 @@ h2 a:visited {
 }
 
 h2 {
+  color: black;
   display: inline;
   margin-right: 15px;
   font-size: 16px;
