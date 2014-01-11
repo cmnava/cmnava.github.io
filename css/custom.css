@@ -10,11 +10,16 @@
   src: url(../fonts/Lato-Lig.otf);
 }
 
+html, body {
+	height: 100%;
+}
+
 /* -- <DIV> -- */
 
 .container {
 	width: 100%;
 	padding: 0;
+	height: 100%;
 }
 
 .navbar.container {
@@ -39,6 +44,11 @@
 
 .row > div > img {
 	width: 100%;
+}
+
+#cover-photo {
+	background-image: url(../img/michelle.jpg);
+	background-size: 100% auto;
 }
 
 /* -- <A> -- */
