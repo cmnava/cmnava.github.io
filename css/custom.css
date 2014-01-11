@@ -40,6 +40,10 @@ h2 a:visited {
   text-decoration: none;
 }
 
+a, a:hover, a:visited {
+  color: #000;
+}
+
 h2 {
   color: black;
   display: inline;
