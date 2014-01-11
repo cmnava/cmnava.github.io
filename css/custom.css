@@ -1,0 +1,53 @@
+/* Christina's Custom CSS File */
+/* =========================== */
+
+@font-face {
+  font-family: gill-sans-shadow;
+  src: url(../fonts/gill-shadow.ttf);
+}
+
+@font-face {
+  font-family: Lato;
+  src: url(../fonts/Lato-Lig.otf);
+}
+
+h1 {
+  display: inline;
+  margin-right: 20px;
+  font-size: 24px;
+  font-family: gill-sans-shadow;
+  line-height: 60px;
+}
+
+h1 a:hover {
+  color: black;
+  text-decoration: none;
+}
+
+h2 a:hover {
+  color: black;
+  text-decoration: none;
+}
+
+h1 a:visited {
+  color: black;
+  text-decoration: none;
+}
+
+h2 a:visited {
+  color: black;
+  text-decoration: none;
+}
+
+h2 {
+  display: inline;
+  margin-right: 15px;
+  font-size: 16px;
+  font-family: Lato;
+  line-height: 60px;
+}
+
+img {
+  width: 100%;
+  overflow: hidden;
+}
