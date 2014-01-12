@@ -49,6 +49,7 @@ html, body {
 #cover-photo {
 	background-image: url(../img/michelle.jpg);
 	background-size: 100% auto;
+	background-repeat: no-repeat;
 }
 
 .container img {
