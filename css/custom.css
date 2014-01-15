@@ -47,8 +47,11 @@ html, body {
 }
 
 #cover-photo {
-	background-image: url(../img/michelle.jpg);
-	background-size: 100% auto;
+	background: url(../img/michelle.jpg) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
 }
 
 .container img {
