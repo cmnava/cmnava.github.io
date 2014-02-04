@@ -99,3 +99,7 @@ h1 {
 p {
   font-family: "Lato";
 }
+
+p#about-text {
+  width: 80%;
+}
